@@ -7,17 +7,11 @@ This project is a simple implementation of Tensor2tensor (https://github.com/ten
 Hao to use?
 ---
 
-* Preprosessing
+* Preprosessing; prepare the parallel data (token, bpe, vocab, and so on), run ./datagen.sh
 
-./datagen.sh
+* Training; modify the model params, and run ./train.sh
 
-* Training
-
-./train.sh
-
-* inference
-
-./test.sh
+* inference run the command to decode: ./test.sh
 
 Contact
 ---
