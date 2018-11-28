@@ -9,7 +9,7 @@ How to use?
 
 * Preprosessing. Prepare the parallel data (token, bpe, vocab, and so on), run ./datagen.sh
 
-* Training. Modify the model params, and run ./train.sh
+* Training. Modify the model params (transformer_params_big or transformer_params_base, basic params are set in models/common_hparms.py), and run ./train.sh
 
 * inference.  Run the command to decode: ./test.sh
 
