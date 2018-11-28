@@ -7,22 +7,13 @@ This project is a simple implementation of Tensor2tensor (https://github.com/ten
 Hao to use?
 ---
 
-#
-Preprosessing
-
-
-prapare the parallel data;
+#Preprosessing
 ./datagen.sh
 
-
 #Training
-
-
 ./train.sh
 
 #inference
-
-
 ./test.sh
 
 Contact
