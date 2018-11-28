@@ -8,12 +8,15 @@ Hao to use?
 ---
 
 #Preprosessing
+
 ./datagen.sh
 
 #Training
+
 ./train.sh
 
 #inference
+
 ./test.sh
 
 Contact
