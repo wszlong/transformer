@@ -3,14 +3,18 @@ A simple Tensorflow implementation of the Transformer
 
 This project is a simple implementation of Tensor2tensor.
 
-#Hao to use?
+Hao to use?
+#
 
-##Preprosessing Data
+Preprosessing Data
+##
 
-##Training
+Training
+##
 
-##inference
+inference
+##
 
-#Contact
-
+Contact
+#
 If you have questions, suggestions and bug reports, please email wszlong@gmail.com.
