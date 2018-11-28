@@ -8,13 +8,19 @@ Hao to use?
 ---
 
 Preprosessing Data
----
+#
+prapare the parallel data;
+./datagen.sh
 
 Training
----
+#
+
+./train.sh
 
 inference
----
+#
+
+./test.sh
 
 Contact
 ---
