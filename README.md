@@ -4,17 +4,14 @@ A simple Tensorflow implementation of the Transformer
 
 This project is a simple implementation of Tensor2tensor (https://github.com/tensorflow/tensor2tensor) for machine translation.
 
-Hao to use?
+How to use?
 ---
 
-Preprosessing Data
----
+* Preprosessing. Prepare the parallel data (token, bpe, vocab, and so on), run ./datagen.sh to generate data.
 
-Training
----
+* Training. Modify the model params (transformer_params_big or transformer_params_base, basic params are set in models/common_hparms.py), and run ./train.sh.
 
-inference
----
+* inference.  Run the command to translate source sentence: ./test.sh.
 
 Contact
 ---
