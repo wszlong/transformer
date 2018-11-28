@@ -11,9 +11,7 @@ How to use?
 
 * Training. modify the model params, and run ./train.sh
 
-* inference. 
-
-run the command to decode: ./test.sh
+* inference.  run the command to decode: ./test.sh
 
 Contact
 ---
