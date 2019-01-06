@@ -13,6 +13,10 @@ How to use?
 
 * inference.  Run the command to translate source sentence: ./test.sh.
 
+C++ Version Translator
+---
+Once we have trained the model, we can also use a C++/CUDA [Transformer-translator](https://github.com/wszlong/transformer-translator) to translate source language.
+
 Contact
 ---
 
