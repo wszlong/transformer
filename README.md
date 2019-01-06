@@ -4,7 +4,7 @@ A simple Tensorflow implementation of the Transformer
 
 This project is a simple implementation of Tensor2tensor (https://github.com/tensorflow/tensor2tensor) for machine translation.
 
-How to use?
+Usage
 ---
 
 * Preprosessing. Prepare the parallel data (token, bpe, vocab, and so on), run `./datagen.sh` to generate data.
@@ -15,7 +15,7 @@ How to use?
 
 C++ Version Translator
 ---
-Once we have trained the model, we can also use a C++/CUDA [Transformer-translator](https://github.com/wszlong/transformer-translator) to translate source language.
+Once you have trained the model, you can also use a C++/CUDA [Transformer-translator](https://github.com/wszlong/transformer-translator) to translate source language.
 
 Contact
 ---
